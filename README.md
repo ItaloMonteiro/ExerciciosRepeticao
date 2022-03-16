@@ -7,4 +7,4 @@ Execercícios de repeticão da lista de exercios de python, feitos em Java.
 
 ##
 
-Exercícios tirado do site: https://wiki.python.org.br/EstruturaDeRepeticao
+Exercícios tirados do site: https://wiki.python.org.br/EstruturaDeRepeticao
