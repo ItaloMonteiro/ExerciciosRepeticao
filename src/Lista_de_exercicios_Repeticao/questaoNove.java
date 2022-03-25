@@ -1,4 +1,4 @@
-//Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50
+package Lista_de_exercicios_Repeticao;//Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50
 
 public class questaoNove {
     public static void main(String[] args) {
