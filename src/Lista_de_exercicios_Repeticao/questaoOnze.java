@@ -1,4 +1,4 @@
-//Altere o programa anterior para mostrar no final a soma dos números.
+package Lista_de_exercicios_Repeticao;//Altere o programa anterior para mostrar no final a soma dos números.
 
 import java.util.Scanner;
 
