@@ -1,5 +1,5 @@
 package String.Lista_de_exercicios_String;
-
+//exercício ainda em andamento
 import java.util.Scanner;
 
 /*
